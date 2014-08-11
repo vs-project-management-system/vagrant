@@ -1,13 +1,13 @@
 {
-    "name": "volleyball/vagrant",
+    "name": "vs-project-management-system/vagrant",
     "type": "library",
-    "description": "vagrant installation for the volleyball system.",
+    "description": "vagrant installation for the pms system.",
     "keywords": [
         "scheduling",
         "scheduling system",
         "vagrant"
     ],
-    "homepage": "http://volleyball.daviddurost.net",
+    "homepage": "http://pms.daviddurost.net",
     "license": "MIT",
     "authors": [
         {
